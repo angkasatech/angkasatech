@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ramadhan Adi Putra
-- 👀 I’m interested in Data Science, Machine Learning, Data Warehouse, Data Engineer & Web Programming
-- 🌱 I’m currently learning Data Science with Python
-- 💞️ I’m looking to collaborate on Data Science Project
+- 👀 I’m interested in DevOps, IIoT, Web Programming, Data Science, Machine Learning, Data Warehouse, and Data Engineering.
+- 🌱 I’m currently learning the All Digitalization Sector
 
 <!---
 - 📫 How to reach me ...
