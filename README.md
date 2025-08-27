@@ -17,7 +17,7 @@ A professional blog where I document my journey and share insights on full-stack
 Tech Stack: Next.js, TypeScript, Tailwind CSS, Shadcn/ui, Firestore, and deployed on Google Cloud Run via a GitHub Actions CI/CD pipeline.
 This project demonstrates my ability to build a full-stack application from scratch and manage a complete DevOps lifecycle on GCP.
 
-🏫 School Website Modernization (Case Study)
+🏫 School Website Modernization (Case Study) - http://libmicikarang.sch.id (On-Going)
 Upgrading a real-world school website from a legacy CMS to a modern, high-performance web application to improve user experience and streamline the student registration process.
 Tech Stack: Next.js, TypeScript, Tailwind CSS, Vercel, and Supabase (PostgreSQL) for the backend and database.
 This project showcases my skills in migrating systems, designing a database schema (SQL), and building a practical, data-driven application.
@@ -26,29 +26,24 @@ This project showcases my skills in migrating systems, designing a database sche
 These are the technologies I work with daily. My focus is on building robust, scalable, and maintainable applications.
 
 Frontend
-
-Backend
-
-Database
-
-DevOps & Cloud
-
 [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,ts,tailwind,threejs)](https://skillicons.dev)
 
+Backend
 [![My Skills](https://skillicons.dev/icons?i=js,py,nodejs,deno,express,laravel,sequelize,prisma)](https://skillicons.dev)
 
+
+Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,influxdb)](https://skillicons.dev)
 
+
+DevOps & Cloud
 [![My Skills](https://skillicons.dev/icons?i=gcp,aws,docker,git,githubactions,nginx,cloudflare)](https://skillicons.dev)
 
 🌱 My Learning Goals for 2025
 Deepening my expertise in Kubernetes and container orchestration.
-
 Mastering Test Automation frameworks like Cypress or Playwright.
-
 Exploring advanced Data Engineering pipelines on GCP.
 
 📫 Get In Touch
 LinkedIn: https://www.linkedin.com/in/ramadhanadi/
-
 Email: ramadhanadiputra1@gmail.com
