@@ -48,7 +48,7 @@ Upgrading a real-world school website from a legacy CMS into a **modern, high-pe
 [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,ts,tailwind,threejs)](https://skillicons.dev)  
 
 ### **Backend**  
-[![My Skills](https://skillicons.dev/icons?i=js,py,nodejs,deno,express,laravel,sequelize,prisma)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,py,nodejs,express,laravel,sequelize,prisma)](https://skillicons.dev)  
 
 ### **Database**  
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,influxdb)](https://skillicons.dev)  
