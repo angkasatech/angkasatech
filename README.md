@@ -45,16 +45,16 @@ Upgrading a real-world school website from a legacy CMS into a **modern, high-pe
 ## 💻 Tech Stack & Tools  
 
 ### **Frontend**  
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,ts,tailwind,threejs)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,ts,tailwind,threejs)](https://rmdhn.pages.dev)  
 
 ### **Backend**  
-[![My Skills](https://skillicons.dev/icons?i=js,py,nodejs,express,laravel,sequelize,prisma)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,py,nodejs,express,laravel,sequelize,prisma)](https://rmdhn.pages.dev)  
 
 ### **Database**  
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,influxdb)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,influxdb)](https://rmdhn.pages.dev)  
 
 ### **DevOps & Cloud**  
-[![My Skills](https://skillicons.dev/icons?i=gcp,aws,docker,git,github,gitlab,githubactions,nginx,cloudflare)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=gcp,aws,docker,git,github,gitlab,githubactions,nginx,cloudflare)](https://rmdhn.pages.dev)  
 
 ---
 
