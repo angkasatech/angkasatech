@@ -54,7 +54,7 @@ Upgrading a real-world school website from a legacy CMS into a **modern, high-pe
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,influxdb)](https://skillicons.dev)  
 
 ### **DevOps & Cloud**  
-[![My Skills](https://skillicons.dev/icons?i=gcp,aws,docker,git,githubactions,nginx,cloudflare)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=gcp,aws,docker,git,github,gitlab,githubactions,nginx,cloudflare)](https://skillicons.dev)  
 
 ---
 
