@@ -35,11 +35,8 @@ A professional blog where I document my journey and share insights on **full-sta
 
 ---
 
-### 🏫 [School Website Modernization (Case Study)](http://libmicikarang.sch.id) *(On-Going)*  
-Upgrading a real-world school website from a legacy CMS into a **modern, high-performance web application**.  
-- **Tech Stack**: Next.js, TypeScript, Tailwind CSS, Vercel, Supabase (PostgreSQL)  
-- 💡 Showcases my skills in **system migration, database schema design (SQL), and data-driven app development**.  
-
+### 🏫 [School Website Modernization (Case Study)](http://libmicikarang.sch.id) 
+School website from a legacy CMS.
 ---
 
 ## 💻 Tech Stack & Tools  
