@@ -59,8 +59,8 @@ School website from a legacy CMS.
 ## 🌱 2025 Learning Goals  
 
 - Deepen expertise in **Kubernetes & container orchestration**  
-- Master **Test Automation** (Cypress / Playwright)  
-- Explore **advanced Data Engineering pipelines** on GCP  
+- Master **Test Automation** (Playwright)  
+- Explore Go & Rust Tech 
 
 ---
 
